@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Empathy and Teamwork Efforts: Celebrating Success
-=======================================================================
+# Celebrating Success
 
 Celebrating success is an important aspect of sustaining empathy and teamwork efforts. In this chapter, we will explore techniques for celebrating success to promote effective teamwork.
 

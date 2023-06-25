@@ -1,5 +1,4 @@
-Chapter 7: Promoting Trust among Team Members: Building Rapport and Credibility
-===============================================================================
+# Building Rapport and Credibility
 
 Trust is an essential component of effective teamwork. In this chapter, we will explore techniques for building rapport and credibility to promote trust among team members.
 

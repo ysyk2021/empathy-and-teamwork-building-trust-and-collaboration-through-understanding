@@ -1,5 +1,4 @@
-Chapter 5: Understanding Teamwork: Techniques for Understanding Teamwork
-========================================================================
+# Techniques for Understanding Teamwork
 
 Understanding teamwork is essential for building effective teams. In this chapter, we will explore techniques for understanding teamwork.
 

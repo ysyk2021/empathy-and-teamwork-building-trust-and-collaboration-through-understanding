@@ -1,5 +1,4 @@
-Chapter 5: Understanding Teamwork: Identifying Characteristics of Effective Teams
-=================================================================================
+# Identifying Characteristics of Effective Teams
 
 Effective teamwork is essential for achieving organizational goals and success. In this chapter, we will explore the characteristics of effective teams.
 

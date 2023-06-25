@@ -1,5 +1,4 @@
-Chapter 6: Building a Culture of Collaboration: Establishing Shared Goals and Values
-====================================================================================
+# Establishing Shared Goals and Values
 
 Establishing shared goals and values is an important aspect of building a culture of collaboration within organizations. In this chapter, we will explore techniques for establishing shared goals and values to promote effective teamwork.
 

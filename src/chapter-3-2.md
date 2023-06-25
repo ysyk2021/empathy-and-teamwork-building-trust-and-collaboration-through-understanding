@@ -1,5 +1,4 @@
-Chapter 3: Understanding Empathy: Identifying Types of Empathy
-==============================================================
+# Identifying Types of Empathy
 
 Empathy is a complex skill that involves recognizing and responding to the emotions and needs of others. However, not all empathy is the same. In this chapter, we will explore the different types of empathy and how they impact our ability to work effectively in teams.
 

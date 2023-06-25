@@ -1,5 +1,4 @@
-Chapter 7: Promoting Trust among Team Members: Demonstrating Consistency and Reliability
-========================================================================================
+# Demonstrating Consistency and Reliability
 
 Trust is a crucial component of effective teamwork. When team members trust each other, they are more likely to communicate openly, collaborate effectively, and support one another. In this chapter, we will discuss how demonstrating consistency and reliability can help promote trust among team members.
 

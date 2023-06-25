@@ -1,5 +1,4 @@
-Chapter 3: Understanding Empathy: Techniques for Understanding Empathy
-======================================================================
+# Techniques for Understanding Empathy
 
 Empathy is a crucial skill for effective teamwork, but it can be difficult to understand and develop. In this chapter, we will discuss techniques for understanding empathy and how to apply them in your daily interactions.
 

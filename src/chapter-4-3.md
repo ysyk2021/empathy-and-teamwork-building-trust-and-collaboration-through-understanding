@@ -1,5 +1,4 @@
-Chapter 4: Developing Empathy Skills: Practicing Perspective-Taking
-===================================================================
+# Practicing Perspective-Taking
 
 Empathy is a crucial skill for effective teamwork, but it can be difficult to develop. One powerful technique for developing empathy skills is practicing perspective-taking. In this chapter, we will discuss what perspective-taking is and how to practice it.
 
