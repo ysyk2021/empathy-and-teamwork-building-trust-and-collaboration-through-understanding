@@ -1,5 +1,4 @@
 
-
 Empathy is the ability to understand and share the feelings of others. It plays a fundamental role in establishing connections, as it allows individuals to perceive and appreciate different perspectives. By embodying empathy, team members can effectively navigate interpersonal dynamics, resolve conflicts, and build strong relationships based on trust.
 
 Teamwork, on the other hand, encompasses the collective efforts of individuals working towards a common goal. When teams embrace collaboration, they leverage the strengths and skills of each member, resulting in enhanced outcomes. Effective teamwork involves open communication, mutual respect, and a shared sense of purpose.
