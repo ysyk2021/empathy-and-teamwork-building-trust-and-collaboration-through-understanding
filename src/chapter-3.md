@@ -1,5 +1,3 @@
-Chapter 3: Understanding Empathy
-================================
 
 Empathy is a crucial skill for effective teamwork, promoting communication, collaboration, and trust among team members. In this chapter, we will discuss techniques for understanding empathy, identifying different types of empathy, and exploring the neuroscience behind empathy.
 

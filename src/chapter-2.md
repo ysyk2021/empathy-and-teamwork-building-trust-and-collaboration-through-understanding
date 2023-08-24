@@ -1,5 +1,3 @@
-Chapter 2: Overview of Empathy and Teamwork
-===========================================
 
 Empathy and teamwork are essential skills for success in any team environment. In this chapter, we will provide an overview of empathy and teamwork, including different perspectives and approaches to building these skills, the impact of empathy and teamwork on organizational performance, and techniques for overcoming common challenges in building empathy and teamwork.
 

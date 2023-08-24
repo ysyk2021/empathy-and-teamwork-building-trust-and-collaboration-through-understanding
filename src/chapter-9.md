@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Empathy and Teamwork Efforts
-==================================================
 
 Sustaining empathy and teamwork efforts is essential for maintaining a positive team environment and achieving long-term success. In this chapter, we will explore techniques for sustaining empathy and teamwork efforts.
 

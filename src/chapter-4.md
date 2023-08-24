@@ -1,5 +1,3 @@
-Chapter 4: Developing Empathy Skills
-====================================
 
 Empathy is a crucial skill for effective teamwork, but it can be difficult to develop. In this chapter, we will discuss techniques for developing empathy skills, including active listening and observation, as well as practicing perspective-taking.
 

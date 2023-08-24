@@ -1,4 +1,3 @@
-# Exploring the Neuroscience of Empathy
 
 Empathy is a complex cognitive skill that involves understanding and sharing the emotions of others. In this chapter, we will explore the neuroscience of empathy and how it impacts our ability to work effectively in teams.
 

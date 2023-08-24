@@ -1,5 +1,3 @@
-Chapter 8: Addressing Conflict and Misunderstandings
-====================================================
 
 In any team, conflict and misunderstandings are inevitable. It is important to address these issues in a timely and effective manner to prevent them from escalating and damaging the trust and collaboration within the team. This chapter will discuss some techniques for addressing conflict and misunderstandings.
 

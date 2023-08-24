@@ -1,4 +1,3 @@
-# Continuous Learning and Improvement
 
 Empathy and teamwork require continuous learning and improvement to remain effective. In this chapter, we will explore techniques for sustaining empathy and teamwork efforts through continuous learning and improvement.
 

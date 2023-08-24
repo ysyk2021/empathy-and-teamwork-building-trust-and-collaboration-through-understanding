@@ -1,4 +1,3 @@
-# The Impact of Empathy and Teamwork on Organizational Performance
 
 Empathy and teamwork are critical skills for achieving success in any team environment. In this chapter, we will explore the impact of empathy and teamwork on organizational performance.
 

@@ -1,4 +1,3 @@
-# Active Listening and Observation
 
 Empathy is a critical skill for building trust and collaboration within teams. In this chapter, we will discuss two key components of empathy: active listening and observation.
 

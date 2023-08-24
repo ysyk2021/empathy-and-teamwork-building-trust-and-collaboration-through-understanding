@@ -1,4 +1,3 @@
-# Encouraging Open Communication
 
 Building a culture of collaboration is essential for effective teamwork. In this chapter, we will explore techniques for encouraging open communication and promoting collaboration within teams.
 

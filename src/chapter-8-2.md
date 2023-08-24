@@ -1,4 +1,3 @@
-# Providing Mediation and Conflict Resolution
 
 Conflict and misunderstandings are inevitable in any team environment. In this chapter, we will explore techniques for providing mediation and conflict resolution to promote effective teamwork.
 
