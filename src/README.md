@@ -12,3 +12,7 @@ It is important to note that the content provided in this book focuses on univer
 Now, let's embark on this journey together as we explore the transformative power of empathy and teamwork in building trust and collaboration.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
